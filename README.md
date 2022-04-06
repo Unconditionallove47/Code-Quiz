@@ -3,7 +3,7 @@
 **Quiz page is currently nonfunctional, have not been able to figure out how to properly place my notes into working code.Dont know if its due to too much code that isnt needed, code in the wrong place, not enough code, or a combination of them.
 
 
-
+**Github will say i only added changes 1 time(uploaded to a new Repo because pages was linked to my readme and not the actual content)
 **Quiz display screen is displayed offerin gionformation about the quiz.
 **User is prompted to start the quiz via the start button
 **After start is pressed the timer displayed in top right corner starts from 120 seconds(10s taken off for each incorrect anser given)
