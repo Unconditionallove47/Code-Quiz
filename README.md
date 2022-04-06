@@ -12,6 +12,6 @@
 **User is asked to input their initials and score is added to the leaderboards(can also clear leaderboards from this screen)
 **clear options and play again are placed on screen prompting user to choose which they would like to do.
 
-**github link to repo:   https://github.com/Unconditionallove47/Code-Quiz-Homework
+**github link to repo:   https://github.com/Unconditionallove47/Code-Quiz
 **github link to live page:
- https://unconditionallove47.github.io/Code-Quiz-Homework/
+ https://unconditionallove47.github.io/Code-Quiz/
