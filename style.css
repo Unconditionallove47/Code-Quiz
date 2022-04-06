@@ -1,0 +1,30 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Northern_New_Mexico.jpg/1280px-Northern_New_Mexico.jpg"); 
+    margin: auto;
+    background-size: cover
+  }
+  
+  h1 {
+    color: rgb(124, 27, 108);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+
+  .styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+}
+
+.btn {
+text-align: center;
+}
